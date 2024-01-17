@@ -1,0 +1,20 @@
+{
+  "name": "cypress-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.6.3",
+    "@padcom/cypress-pop": "^0.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
